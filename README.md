@@ -2,7 +2,13 @@
 CodeAlpha UIUX Internship Task 1:wireframing and low fidelt design for a mobile app or website   
 
  # Project Overview
-This project focuses on creating wireframes and low-fidelity prototypes to visualize the structure, layout, and user flow of a digital product before moving into high-fidelity design and development. The goal is to validate ideas quickly, gather feedback, and establish a strong foundation for the user experience.
+This project focuses on creating wireframes and low-fidelity prototypes to visualize the structure, layout, and user flow of a digital product before moving into high-fidelity design and development. The goal is to validate ideas quickly, gather feedback, and establish a strong foundation for the user experience.  
+
+# Tools used
+figma
+micro
+balsamiq
+github
 
  # Objectives
 Define the information architecture and navigation flow.
