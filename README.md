@@ -1,56 +1,52 @@
-# Wireframing-and-Low-Fidelity-Design
-CodeAlpha UIUX Internship Task 1:wireframing and low fidelt design for a mobile app or website   
+# E-Commerce Mobile App Wireframes
 
- # Project Overview
-This project focuses on creating wireframes and low-fidelity prototypes to visualize the structure, layout, and user flow of a digital product before moving into high-fidelity design and development. The goal is to validate ideas quickly, gather feedback, and establish a strong foundation for the user experience.  
+## Project Overview
 
-# Tools used
-figma  
-micro  
-balsamiq  
-github
+This project was created as part of the CodeAlpha UI/UX Design Internship Task 1: Wireframing and Low-Fidelity Design.
 
- # Objectives
-Define the information architecture and navigation flow.
+The objective of this project is to design low-fidelity wireframes for an E-Commerce Mobile Application. The wireframes focus on the basic structure, user flow, and navigation before applying detailed visual design elements.
 
-Explore multiple layout variations for key screens.
+Screens Designed
 
-Identify potential usability issues early.
+### 1. Login Screen
 
-Provide a collaborative design artifact for stakeholders and developers.
+Features:
 
- #Tools Used
-Figma – for wireframing and prototyping
+- App logo placeholder
+- Email input field
+- Password input field
+- Login button
+- Social login options
+- Sign-up link
 
-Miro – for brainstorming and mapping user journeys
+### 2. Home Screen
 
-Balsamiq – for quick sketch-style wireframes
+Features:
 
+- Search bar
+- Promotional banner
+- Product categories
+- Featured products section
+- Bottom navigation menu
 
-# Getting Started
-Clone the repository.
+Design Approach
 
-Open wireframes in Figma or Balsamiq.
+- Low-fidelity wireframing
+- Simple grayscale layout
+- User-centered navigation
+- Clean and minimal structure
+- Focus on usability and functionality
 
-Review the user flow diagrams in /docs.
+## Tools Used  
+- Figma
 
-Provide feedback using comments or annotations.
+## Learning Outcomes
 
-# Design Principles
-Clarity – keep layouts simple and intuitive.
+Through this project, I learned:
 
-Consistency – maintain uniform styles across screens.
-
-Accessibility – ensure designs are inclusive and usable for all.
-
-Feedback – incorporate stakeholder and user input iteratively.
-
-# Deliverables
-Low-fidelity wireframes for desktop and mobile.
-
-Clickable prototype for usability testing.
-
-Documentation of design decisions and rationale.
-
-
+- Wireframing fundamentals
+- Mobile app layout planning
+- User flow organization
+- UI/UX design principles
+- Figma design workflow
 
